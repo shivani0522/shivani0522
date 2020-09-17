@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**shivani0522/shivani0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+   Hi there 👋
 - 🔭 I’m currently working on ML
 - 🌱 I’m currently learning ML
 - 💬 Ask me about Web Development
